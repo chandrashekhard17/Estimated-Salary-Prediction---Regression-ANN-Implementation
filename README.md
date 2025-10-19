@@ -45,7 +45,7 @@ Customer-Salary-Prediction/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/chandrashekhard17/Customer-Churn-Prediction---ANN-Implementation.git
+git clone https://github.com/chandrashekhard17/Estimated-Salary-Prediction---Regression-ANN-Implementation.git
 ```
 
 ### 2️⃣ Navigate to the project directory
@@ -107,7 +107,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 **Chandrashekhar D**  
 💻 Data Science & Machine Learning Enthusiast  
-📧 [Your Email or LinkedIn URL]
+📧 [chandrashekhard543@gmail.com]
 
 ---
 
